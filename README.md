@@ -1,4 +1,4 @@
-# Linux-hybrid-ISA-scheduler
+# (Pre-Alpha-Concept) Linux-hybrid-ISA-scheduler
 Used as a staging ground for a hybrid scheduler capable of dealing with multiple different ISA's on the same host processor. 
 
 Multiple approaches might be possible, but this is TBD
